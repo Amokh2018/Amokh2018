@@ -35,7 +35,7 @@ I'm open to collaborating on projects related to **AI in Telecommunications**, *
 ### 📫 Get in Touch
 
 - [Email](mailto:ali.mokh.2013@ieee.org)
-- [LinkedIn](www.linkedin.com/in/ali-mokh-9638988a)
+- [LinkedIn](https//:www.linkedin.com/in/ali-mokh-9638988a)
 - [Google Scholar](https://scholar.google.fr/citations?user=BDNaCS4AAAAJ&hl=en&oi=ao)
 
 
