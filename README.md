@@ -9,12 +9,19 @@ I'm a PhD holder in Telecommunications (since 2018) and an IEEE Senior Member, c
 ### 🛠️ MLOps Stack
 
 - **Languages:** Python, Rust, C++ 
-- **Frameworks:** TensorFlow, PyTorch, sklearn
+- **Frameworks:** TensorFlow, PyTorch, sklearn, Pandas
 - **VC Tools:** GitHub, GitLab, AWS CodeCommit
+- **Data Management:** databricks, Snowflake
 - **MLOps tools:** MLflow, Kubeflow, SageMaker
 - **Containerization:** Docker, Kubernetes, EKS, ECS
 - **CI/CD :** GitLab, ArgoCD, Github Actions, CodePipeline
 - **Cloud:** AWS
+
+### 🛠️ GenAI Stack
+
+- **Platforms:** Bedrock, Containerized deployments
+- **Technologies:** RAG, Text-to-Speech, image generation, document processing
+- **Frameworks:** HuggingFace, LangChain, LlamaIndex, OpenAI, Mistral, Anthropic
 
 ### 🚀 Teaching
 
